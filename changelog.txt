@@ -1,0 +1,4 @@
+7508a72 Created 'alphabet_output.txt' file from executing 'alphabet_loop.sh' file.
+eef3332 Modified 'alphabet_loop.sh' file to record and overwrite output to 'alphabet_output.txt' file.
+0dbe4ad Bash file 'alphabet_loop' created in 'project' directory: prints the order of the alphabet.
+40f4b2c Initial commit: creating assessment_a directory, project directory, and changelog.txt file.
